@@ -1,0 +1,1 @@
+"../../../packages/FluentMigrator.1.6.0/tools/Migrate.exe"  /conn "server=instinctserver;User Id=root;password=admin;Persist Security Info=True;database=moniverse;Connection Timeout=30;Allow User Variables=True;Convert Zero Datetime=True;" /provider mysql /assembly "DBManager.dll" /verbose=true --task rollback --steps=%1

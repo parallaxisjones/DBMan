@@ -1,0 +1,1 @@
+"../../../packages/FluentMigrator.1.6.0/tools/Migrate.exe"  /conn "server=prod-monitoring.cegaxwwurgzs.us-east-1.rds.amazonaws.com;User Id=playverseAdmin;password=fMZTYts4Yyjakiz;Persist Security Info=True;database=Moniverse;Connection Timeout=30;Allow User Variables=True;Convert Zero Datetime=True;" /provider mysql /assembly "DBManager.dll" /verbose=true --task migrate
